@@ -1,4 +1,5 @@
-**Hi, my name is Jozef and I have been working as a software engineer for 20 years, developing and maintaining various applications and systems for different domains and platforms.**
+# Welcome to my profile
+My name is Jozef and I have been working as a software engineer for 20 years, developing and maintaining various applications and systems for different domains and platforms.
 
 <!--
 **zeroamps/zeroamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
