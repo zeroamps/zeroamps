@@ -2,7 +2,7 @@
 My name is Jozef and I have been working as a software engineer for 20 years, developing and maintaining various applications and systems for different domains and platforms. I'm mostly interested in Angular, React and .NET development.
 
 ## My portfolio projects
-Sure, I can't share private code of my clients and companies I work for, but I have many hobby and demo projects I learn from which I can share with you.  
+Sure, I can't share private code of my clients and companies I work for, but I have many hobby and demo projects I learn from, which I can share with you.  
 
 - I spent some time hacking my old Samsung Galaxy. See this [repository](https://github.com/zeroamps/android).
 - I like building electronics so I spent lots of time writing C/C++ code for microcontrollers. See this [repository](https://github.com/zeroamps/microcontrollers).  
