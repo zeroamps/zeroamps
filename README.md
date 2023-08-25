@@ -4,8 +4,8 @@ My name is Jozef and I have been working as a software engineer for 20 years, de
 ## My portfolio projects
 Sure, I can't share private code of my clients and companies I work for, but I have many hobby and demo projects I learn from, which I can share with you.  
 
-⚡ I spent some time hacking my old Samsung Galaxy. See this [repository](https://github.com/zeroamps/android).
-⚡ I like building electronics so I spent lots of time writing C/C++ code for microcontrollers. See this [repository](https://github.com/zeroamps/microcontrollers).  
+- ⚡ I spent some time hacking my old Samsung Galaxy. See this [repository](https://github.com/zeroamps/android).
+- ⚡ I like building electronics so I spent lots of time writing C/C++ code for microcontrollers. See this [repository](https://github.com/zeroamps/microcontrollers).  
 
 <!--
 **zeroamps/zeroamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
