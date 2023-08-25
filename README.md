@@ -2,7 +2,7 @@
 My name is Jozef and I have been working as a software engineer for 20 years, developing and maintaining various applications and systems for different domains and platforms. I'm mostly interested in Angular, React and .NET development.
 
 ## My portfolio projects
-Sure, I can't share private code of my clients or companies I work for, but I have many hobby and demo projects I learn from which I can share with you.  
+Sure, I can't share private code of my clients and companies I work for, but I have many hobby and demo projects I learn from which I can share with you.  
 
 <!--
 **zeroamps/zeroamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
