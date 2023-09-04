@@ -8,6 +8,7 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 - ⚡ I like building electronics so I spent lots of time writing C/C++ code for microcontrollers. See this [repository](https://github.com/zeroamps/microcontrollers).
 - ⚡ I wanted to try Vite, which is a frontend tooling, so I created React Notes Demo. See this [repository](https://github.com/zeroamps/react-notes-demo).
 - ⚡ I wanted to try react-hook-form, which is a React form library, so I created React Weight Conversion Demo. See this [repository](https://github.com/zeroamps/react-weight-conversion-demo).
+- ⚡ I needed for one project to convert GUIDs to MongoDB BinData, so I created in Angular a tool for that. See this [repository](https://github.com/zeroamps/mongodb-convert-guid-to-bindata).
 
 <!--
 **zeroamps/zeroamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
