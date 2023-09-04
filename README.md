@@ -6,7 +6,7 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 
 - ⚡ I spent some time hacking my old Samsung Galaxy. See this [repository](https://github.com/zeroamps/android).
 - ⚡ I like building electronics so I spent lots of time writing C/C++ code for microcontrollers. See this [repository](https://github.com/zeroamps/microcontrollers).
-- ⚡ I wanted to try Vite, which is a frontent tooling, so I created a tiny React Notes Demo. See this [repository](https://github.com/zeroamps/react-notes-demo).
+- ⚡ I wanted to try Vite, which is a frontend tooling, so I created a tiny React Notes Demo. See this [repository](https://github.com/zeroamps/react-notes-demo).
 
 <!--
 **zeroamps/zeroamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
