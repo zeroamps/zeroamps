@@ -9,8 +9,9 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 - ⚡ I wanted to try Vite, which is a frontend tooling, so I created React Notes Demo. See this [repository](https://github.com/zeroamps/react-notes-demo).
 - ⚡ I wanted to try react-hook-form, which is a React form library, so I created React Weight Conversion Demo. See this [repository](https://github.com/zeroamps/react-weight-conversion-demo).
 - ⚡ I needed for one project to convert GUIDs to MongoDB BinData, so I created in Angular a tool for that. See this [repository](https://github.com/zeroamps/mongodb-convert-guid-to-bindata).
-- ⚡ For one project I created a Docker image for building Cordova applications. See this [repository](https://github.com/zeroamps/docker-cordova).
+- ⚡ For a project I created a Docker image for building Cordova applications. See this [repository](https://github.com/zeroamps/docker-cordova).
 - ⚡ This collection of PowerShell examples I created during my PowerShell studying. See this [repository](https://github.com/zeroamps/powershell-sample-scripts).
+- ⚡ For a project I created an Android demo application to test a foreground service with notifications. See this [repository](https://github.com/zeroamps/android-timer-demo).
 - ⚡ I use lots of various tools, that's the reason why I created my cheat sheet repository. See this [repository](https://github.com/zeroamps/tooling).
 
 <!--
