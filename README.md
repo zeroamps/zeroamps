@@ -13,6 +13,8 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 - ⚡ This collection of PowerShell examples I created during my PowerShell studying. See this [repository](https://github.com/zeroamps/powershell-sample-scripts).
 - ⚡ For a project I created an Android demo application to test a foreground service with notifications. See this [repository](https://github.com/zeroamps/android-timer-demo).
 - ⚡ For a project I created an Android demo application which hosts a web application in the WebView. See this [repository](https://github.com/zeroamps/android-webview-demo).
+- ⚡ From time to time I need to create a MongoDB query using C# Driver. See this [repository](https://github.com/zeroamps/dotnet-mongodb-demo).
+- ⚡ I created this demo to see what it means to have a minimal ASP.NET Web API. See this [repository](https://github.com/zeroamps/dotnet-minimal-api-demo).
 - ⚡ I use lots of various tools, that's the reason why I created my cheat sheet repository. See this [repository](https://github.com/zeroamps/tooling).
 
 <!--
