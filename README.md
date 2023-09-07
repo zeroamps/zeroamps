@@ -15,6 +15,7 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 - ⚡ For a project I created an Android demo application which hosts a web application in the WebView. See this [repository](https://github.com/zeroamps/android-webview-demo).
 - ⚡ From time to time I need to create a MongoDB query using C# Driver. See this [repository](https://github.com/zeroamps/dotnet-mongodb-demo).
 - ⚡ I created this demo to see what it means to have a minimal ASP.NET Web API. See this [repository](https://github.com/zeroamps/dotnet-minimal-api-demo).
+- ⚡ This is my collection of Angular demo applications I use for practising various Angular features. See this [repository](https://github.com/zeroamps/angular-sample-demos).
 - ⚡ I use lots of various tools, that's the reason why I created my cheat sheet repository. See this [repository](https://github.com/zeroamps/tooling).
 
 <!--
