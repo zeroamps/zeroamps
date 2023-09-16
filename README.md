@@ -20,6 +20,7 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 - ⚡ From time to time I need to create a MongoDB query using C# Driver. See this [repository](https://github.com/zeroamps/dotnet-mongodb-demo).
 - ⚡ I created this demo to see what it means to have a minimal ASP.NET Web API. See this [repository](https://github.com/zeroamps/dotnet-minimal-api-demo).
 - ⚡ This is my collection of Next.js demo applications I use for practising various Next.js features. See this [repository](https://github.com/zeroamps/nextjs-sample-demos).
+- ⚡ I created this React demo because I wanted to try Bootstrap together with React Bootstrap. See this [repository](https://github.com/zeroamps/react-timer-demo).
 - ⚡ I use lots of various tools, that's the reason why I created my cheat sheet repository. See this [repository](https://github.com/zeroamps/tooling).
 
 <!--
