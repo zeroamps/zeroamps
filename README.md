@@ -15,7 +15,7 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 - ⚡ This collection of PowerShell examples I created during my PowerShell studying. See this [repository](https://github.com/zeroamps/powershell-sample-scripts).
 - ⚡ This is my collection of Cordova demo applications I use for practising various Cordova features. See this [repository](https://github.com/zeroamps/cordova-sample-demos).
 - ⚡ For a project I created an Android demo application to test a foreground service with notifications. See this [repository](https://github.com/zeroamps/android-timer-demo).
-- ⚡ A cookie clicker game is a React incremental game where a user clicks on a big cookie, earning a single cookie per click. See this [repository](https://github.com/zeroamps/react-cookie-clicker-game).
+- ⚡ A cookie clicker game is a React game where a user clicks on a big cookie, earning a single cookie per click. See this [repository](https://github.com/zeroamps/react-cookie-clicker-game).
 - ⚡ This is my collection of Gatsby demo applications I use for practising various Gatsby features.. See this [repository](https://github.com/zeroamps/gatsby-sample-demos).
 - ⚡ For a project I created an Android demo application which hosts a web application in the WebView. See this [repository](https://github.com/zeroamps/android-webview-demo).
 - ⚡ From time to time I need to create a MongoDB query using C# Driver. See this [repository](https://github.com/zeroamps/dotnet-mongodb-demo).
