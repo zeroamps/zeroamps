@@ -6,6 +6,7 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 
 - ⚡ I spent some time hacking my old Samsung Galaxy. See this [repository](https://github.com/zeroamps/android).
 - ⚡ I like building electronics so I spent lots of time writing C/C++ code for microcontrollers. See this [repository](https://github.com/zeroamps/microcontrollers).
+- ⚡ I created this demo because I wanted to try Firebase together with React, so I created React Todo List Demo. See this [repository](https://github.com/zeroamps/react-todo-list-demo).
 - ⚡ I wanted to try Vite, which is a frontend tooling, so I created React Notes Demo. See this [repository](https://github.com/zeroamps/react-notes-demo).
 - ⚡ This is my collection of Node.js demo applications I use for practising various Node.js features. See this [repository](https://github.com/zeroamps/node-sample-demos).
 - ⚡ I wanted to try react-hook-form, which is a React form library, so I created React Weight Conversion Demo. See this [repository](https://github.com/zeroamps/react-weight-conversion-demo).
