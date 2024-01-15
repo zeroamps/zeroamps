@@ -25,6 +25,7 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 - ⚡ I created this React demo because I wanted to try Bootstrap together with React Bootstrap. See this [repository](https://github.com/zeroamps/react-timer-demo).
 - ⚡ I use lots of various tools, that's the reason why I created my cheat sheet repository. See this [repository](https://github.com/zeroamps/tooling).
 - ⚡ For a project I created a Docker compose file for running WordPress locally. See this [repository](https://github.com/zeroamps/docker-wordpress).
+- ⚡ I created this repository for studying OpenShift. See this [repository](https://github.com/zeroamps/open-shift).
 
 <!--
 **zeroamps/zeroamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
