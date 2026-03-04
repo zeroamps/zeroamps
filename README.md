@@ -4,6 +4,7 @@ My name is Jozef and I have been working as a software engineer for 20 years, de
 ## My portfolio projects
 Sure, I can't share private code of my clients and companies I work for, but I have many hobby and demo projects I learn from, which I can share with you.
 
+- ⚡ I created a beginner-friendly cheat sheet for prompt engineering techniques. See this [repository](https://github.com/zeroamps/promptex).
 - ⚡ I spent some time hacking my old Samsung Galaxy. See this [repository](https://github.com/zeroamps/android).
 - ⚡ I like building electronics so I spent lots of time writing C/C++ code for microcontrollers. See this [repository](https://github.com/zeroamps/microcontrollers).
 - ⚡ I created this demo because I wanted to try Firebase together with React, so I created React Todo List Demo. See this [repository](https://github.com/zeroamps/react-todo-list-demo).
@@ -30,18 +31,3 @@ Sure, I can't share private code of my clients and companies I work for, but I h
 - ⚡ I created this repository for studying OpenShift. See this [repository](https://github.com/zeroamps/open-shift).
 - ⚡ I created a date and time picker component for Angular using ng-bootstrap. See this [repository](https://github.com/zeroamps/ng-bootstrap-date-time-picker).
 - ⚡ I created an updated date and time picker component for Angular 19 using ng-bootstrap. See this [repository](https://github.com/zeroamps/ng-bootstrap-date-time-picker-ng-19).
-
-<!--
-**zeroamps/zeroamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
